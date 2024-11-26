@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rishav Tiwari
+# 👋 Hi, I’m Rishav Dev Tiwari
 
 ## About Me
 - **Interests:** Actively learning various programming languages and technologies.
