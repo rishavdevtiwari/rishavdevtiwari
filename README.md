@@ -1,17 +1,14 @@
 # 👋 Hi, I’m Rishav Dev Tiwari
 
 ## About Me
-- **Interests:** Actively learning various programming languages and technologies.
+- **Interests:** Actively learning Data Science, Machine Learning, Generative AI, Agentic AI, Neural Networks, Deep Learning.
 - **Currently Learning:** 
   - Python
-  - C
-  - HTML
-  - CSS
-  - JavaScript
+  - R
 - **Pronouns:** He/Him
 
 ## Collaboration
-I’m looking to collaborate on exciting projects, especially those involving web development and software engineering. If you have an interesting idea, feel free to reach out!
+I’m looking to collaborate on exciting projects, especially those involving strategic problems. If you have an interesting idea, feel free to reach out!
 
 ## Contact Me
 - 📧 Email: [rishavtiwari.ai@gmail.com](mailto:rishavtiwari.ai@gmail.com) 
